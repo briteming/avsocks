@@ -5,7 +5,7 @@ import (
 	"crypto/aes"
 	"crypto/cipher"
 	"flag"
-	"github.com/kless/goconfig/config"
+	"github.com/vuleetu/goconfig/config"
 	"log"
 	"net"
 )
