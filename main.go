@@ -5,7 +5,6 @@ import (
 	"crypto/cipher"
 	"flag"
 	"github.com/vuleetu/goconfig/config"
-	"./handler"
 	"log"
 	"net"
 )
