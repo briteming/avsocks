@@ -4,8 +4,8 @@ import (
 	"crypto/aes"
 	"crypto/cipher"
 	"flag"
-	"github.com/kless/goconfig/config"
-	. "hyq/newsocks/handler"
+	"github.com/vuleetu/goconfig/config"
+	. "./handler"
 	"log"
 	"net"
 )
